@@ -5,7 +5,7 @@ In the 2000s, I worked as a computer and software engineer in Istanbul in a comp
 # The Beginning of My Competencies
 Microsoft Turkey started to give its first seminars on .NET architectures. I always liked to go to the Microsoft building and listen to new technologies. I saw mobile application development in a Microsoft seminar in 2000 and applied it in the company I worked for.
 
-In one of the next seminars, an announcement was made. 8 people in Turkey would be trained to explain .NET architectures. I was very interested in the .NET Competent Partner program and I completed the training as one of those 8 people. This choice changed my whole life.
+In one of the next seminars, an announcement was made. 8 people in Turkey would be trained to explain .NET architectures. **I was very interested in the .NET Competent Partner program and I completed the training as one of those 8 people. This choice changed my whole life.**
 
 Shortly after completing the training, I received an offer from Bilgeadam Information Technologies Academy, one of the largest authorized Microsoft training centers in Turkey. I was asked to be a technology trainer. In my Bilgeadam adventure, which lasted for 6 years in total, I was now training new trainers in the field of software. The process that continued for many years as a trainer, writing technology books on behalf of the organization, training trainers and becoming the Head of Software Training Department in Turkey was an incredible experience for me. I am sure there are many people who want to be in my shoes. My friends and students from those days continue to work in highly respected positions in many countries around the world or continue to produce projects in their own companies.
 
@@ -13,7 +13,7 @@ I have been developing projects in .NET architectures and C# language since 2001
 
 I have tremendous experience especially in Linux operating system packages and windows server technologies today. 
 
-I briefly told you about myself with a quick story. Now I would like to talk about my competencies and then my projects. You will find many reasons to work with me, I am sure of it.
+**I briefly told you about myself with a quick story. Now I would like to talk about my competencies and then my projects. You will find many reasons to work with me, I am sure of it.**
 
 # SQL Training
 In 2000, I started using SQL server with a special training lasting about 2 weeks. In those days, the certificate was signed by Bil Gates himself. I am one of the lucky ones who have one of those certificates.
