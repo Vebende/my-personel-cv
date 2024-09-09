@@ -27,8 +27,5 @@ Take a look at the project experience using Rabbit MQ technology, the size of th
 # SOLID
 It is a coding approach that I have been talking about in many trainings since it was first introduced and that I care about. In fact, it includes many disciplines. In a very simple way, I have always managed to explain SOLID principles to my students. Almost all of them still continue to this day to make developments that strictly adhere to this technique.
 
-## Simple Responsibility
-You can take a quick look at my article where I examine solid concepts and color them with examples. Take a look at both the concepts of SOLID principles and how they can be adapted in today's technologies and review the new added values they can add to us today.
-
 [SOLID Principles](solid.md)
 
